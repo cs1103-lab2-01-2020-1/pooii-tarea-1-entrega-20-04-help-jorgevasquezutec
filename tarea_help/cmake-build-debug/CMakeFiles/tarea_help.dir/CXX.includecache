@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/src/lib.h
+iostream
+-
+vector
+-
+string
+-
+
+D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/src/main.cpp
+lib.h
+D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/src/lib.h
+template/stack.h
+D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/src/template/stack.h
+template/stack.cpp
+D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/src/template/stack.cpp
+
+D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/src/template/stack.cpp
+stack.h
+D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/src/template/stack.h
+
+D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/src/template/stack.h
+../lib.h
+D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/src/lib.h
+

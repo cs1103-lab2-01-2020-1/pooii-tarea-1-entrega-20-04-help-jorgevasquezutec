@@ -13,17 +13,17 @@ private:
     vector<T> elements;
 
 public:
-    //add copy constructor
-    //add assignment constructor
+    Stack();
+    Stack& operator=(const T& elem);
+    Stack(const T&);
     void push(T const& elem);
     void pop();
     T const& top() const;
     bool empty();
-    //overload == operator
+    bool operator==(const T& elem);
     void print_elements(ostream& os);
-    friend ostream& operator<<(ostream& os, Stack<T> const& s);
-
+    template <typename U>
+    friend ostream& operator<<(ostream& os, Stack<U> const& elem);
 };
-
 
 #endif //STACK_H

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tarea_help"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tarea_help">
+				<Option output="D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/tarea_help.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+					<Add directory="/mingw/lib/../include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 tarea_help"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tarea_help/fast">
+				<Option output="D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/tarea_help.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+					<Add directory="/mingw/lib/../include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 tarea_help/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/src/lib.h">
+			<Option target="tarea_help"/>
+		</Unit>
+		<Unit filename="D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/src/main.cpp">
+			<Option target="tarea_help"/>
+		</Unit>
+		<Unit filename="D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/src/template">
+			<Option target="tarea_help"/>
+		</Unit>
+		<Unit filename="D:/UTEC/Ciclo3/PO2/TAREAS/02/pooii-tarea-1-entrega-20-04-help-jorgevasquezutec/tarea_help/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
